@@ -1,0 +1,10 @@
+/* ----- fonts */
+@font-face {
+  font-family: "primaryBold";
+  src: url("../fonts/Quicksand-Bold.ttf");
+}
+@font-face {
+  font-family: "primaryRegular";
+  src: url("../fonts/Quicksand-Regular.ttf");
+}
+/* fonts ----- *//*# sourceMappingURL=fonts.css.map */
